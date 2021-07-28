@@ -22,6 +22,15 @@ Changez tous les placeholders du fichier ``main.js``.:
  - `username`: pseudo ou email du compte
  - `password`: si besoin, le mot de passe du compte premium
 
+## Viewers
+
+Vous pouvez observer plusieurs chose ici avec le bot dans votre navigateur :
+(a faire une fois le bot lancer et connecté au serveur !!) 
+
+- ```localhost:3007``` = Pour voir dans les "oeils" du bot 
+- ```localhost:3006``` = Pour voir un radar de tout ce qu'il y a autour de lui
+
+
 ## Autheur
 
 * **Alice** _alias_ [@SaabniaTv](https://github.com/SaabniaTv) UwU
