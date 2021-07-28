@@ -4,15 +4,15 @@ Un bot minecraft qui ce connecte au serveur minecraft (Crack et Premium compris)
 
 ## Avant toute chose !
 
-Installer bien [Node JS](https://nodejs.org/en/) et les prérequis suivant ci-dessous !!
+Installer bien [Node JS](https://nodejs.org/en/) et les prÃ©requis suivant ci-dessous !!
 
-### Prérequis
+### PrÃ©requis
 
 - Node JS = [Node JS](https://nodejs.org/en/)
 - Mineflayer = [mineflayer](https://www.npmjs.com/package/mineflayer)
 - Mineflayer Radar = [mineflayer-radar](https://www.npmjs.com/package/mineflayer-radar)
 
-### 1er démarrage
+### 1er dÃ©marrage
 
 -> Dans un terminal noter = ``node main``
 
