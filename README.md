@@ -28,7 +28,7 @@ Vous pouvez observer plusieurs chose ici avec le bot dans votre navigateur :
 (a faire une fois le bot lancer et connecté au serveur !!) 
 
 - ```localhost:3007``` = Pour voir dans les "oeils" du bot 
-- ```localhost:3008``` = Pour voir un radar de tout ce qu'il y a autour de lui
+- ```localhost:3006``` = Pour voir un radar de tout ce qu'il y a autour de lui
 
 
 ## Autheur
