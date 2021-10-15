@@ -9,7 +9,7 @@ const bot = mineflayer.createBot({
 
 const { mineflayer: mineflayerViewer } = require('prismarine-viewer')
 bot.once('spawn', () => {
-    mineflayerViewer(bot, { port: 3007, firstPerson: true })    // Le port localhost pour pour voir dans les "oeils" du bot
+    mineflayerViewer(bot, { port: 3007, firstPerson: true })    // Le port localhost pour pour voir dans les "yeux" du bot
 })
 
 function lookAtNearestPlayer() {
